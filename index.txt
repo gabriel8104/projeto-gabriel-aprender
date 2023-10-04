@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello world , eu gosto mt de  gab
+=======
+Hello world . sou novo aqui Gabriel lindo
+>>>>>>> d5f1a89f56df292b04d04efa993323593c74c6d0
