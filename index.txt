@@ -1,9 +1,2 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
-Hello world , eu gosto mt de  gab
-=======
-=======
-Hello world 
 
-sou foda digdim
->>>>>>> stangig
